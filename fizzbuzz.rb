@@ -3,7 +3,7 @@
 require "pry"
 def fizzbuzz(number)
   if number % 3 == 0
-    puts "Fizz"
+    "Fizz"
   end
 end
 binding.pry
